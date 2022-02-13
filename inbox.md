@@ -1,12 +1,38 @@
 # Inbox
 
-- Here you can write disorganised notes to be categorised later
-- Bullet points are useful, but it could be free form text as well
-- Sometimes it's better to just get things off your mind quickly, rather than stop to think where it belongs
-- But don't let this list get too long
-- Move information to more specific documents and link to them.
-  - This helps you navigate between documents quickly
-  - For example, you can `Cmd`+`Click` this: [[todo]]
-- Some notes don't end up making sense the next day
-- That's ok, you can just delete them!
-  - You can always find them in your git history, if you really need it!
+- 100 Functions as a Service https://github.com/openfaas/faas https://github.com/openfaas/faas/tree/master/sample-functions 
+- 100 containers for software stacks
+- 100 hours of video conversations
+- 100 hours of business coaching
+- 100 hours of incident response
+- 100 incidents revised for patterns
+- 100 paragraphs, deeply read
+- 100 trading systems
+- 100 deep dives into ecosystems
+- 100 interviews for collaborators
+- 100 interviews for vendors
+- 100 pitches to investors
+- 100 ideas for nonprofits
+- 100 sweater designs
+- 100 openai gym environments
+- 100 days of math by hand 
+- 100 ontologies
+- 100 properties to test
+- 100 standards, formalized
+- 100 days of Qigong
+- 100 people encouraged
+- 100 people elected to local governments and boards
+- 100 stories of success through love
+- 100 virtual eurorack setups
+- 100 drawings from a prompt
+- 100 job applications
+- 100 blog posts
+- 100 architectures for systems
+- 100 formal models for systems
+- 100 silent minutes
+- 100 dawn photos
+- 100 self portraits
+- 100 days of wearing the same dress
+- 100 handover protocols for different roles and organizations
+- 100 small project ideas for demonstrating job skills in a portfolion
+- 100 job skills list, and rubric of beginner, intermediate, and advanced for each skill
