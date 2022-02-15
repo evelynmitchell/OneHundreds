@@ -14,9 +14,19 @@ The initial list.
 
 It's ok to start with something really easy. I recommend it over something even slightly hard, because 100s aren't about how hard the individual task are, but about building a habit of creating regularly to explore a theme or motive. We all learn through repetition, and no matter what you start with, the result will be interesting in aggregate. One hundred attempts at anything is interesting.
 
-
-
 ### Art
+
+- 100 sweater designs
+- 100 drawings in pencil
+- 100 drawings in watercolor
+- 100 photographs of something you see everyday
+- 100 pages of writing whatever comes to mind
+- 100 flash fiction stories
+- 100 drawings from a prompt
+- 100 performance art works, photographed or recorded.
+- 100 photographs of the dawn or sunset
+- 100 self portraits
+
 
 ### Music
 
