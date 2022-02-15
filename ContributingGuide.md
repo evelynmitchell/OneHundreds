@@ -6,3 +6,10 @@ All ideas for what to do 100 of, are licensed under [CC-BY-SA-4.0](https://creat
 
 All linked works remain under the original license of the work. 
 
+## Pull requests
+
+<how to make a copy for your own use>
+
+<how to contribute changes back>
+<to the original>
+<to where you forked this from, or your scenius>
