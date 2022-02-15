@@ -52,16 +52,12 @@ It's ok to start with something really easy. I recommend it over something even 
 
 Volume is more important than quality. You'll learn as you go. When you look back you'll see improvement and that will remind you of your learning over time.
 
-Don't compare your beginning with someone else's final result. You haven't seen what they did in the beginning, because it's rarely shown. But asking for advice on how you can improve, is a great way to find collaborators and partners.
-
-
-
-
+Don't compare your beginning with someone else's final result. You haven't seen what they did in the beginning, because it's rarely shown. But asking for advice on how you can improve, is a great way to find collaborators and partners and even friends.
 
 Category suggestions.
 
 DB for project examples
 
-Pull requests welcome!
+Pull requests welcome! See the [contributing guide](ContributingGuide.md) for how to do a pull request and licensing.
 
 
