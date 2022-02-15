@@ -1,16 +1,20 @@
 # One Hundreds
 
-VV in bookname and tweet thread, suggests 100 public attempts as a way of seeding collaboration with like minded creators, building an audience of true fans, and failing quickly in the direction of success.
+ Visakan Veerasamy in @visakanv's 50yr "plan" for global nerd network [wip] suggests 100 public attempts as a way of seeding collaboration with like minded creators, building an audience of true fans, and failing quickly in the direction of success.
 
 I've got a few ideas for some projects that I'd like to share and I hope you will join me in coming up with more.
 
 Also, if you start any of these projects, we'd love to hear about it.
 
-The structure of so far, of this project is a single page, with organized by topic lists of inspiration for your projects. Each of the topics will, link to a <simon willison db> of locations of your versions of the project, for completeness, and eventually, show a random example of the last attempt of some of the projects.
+The structure of so far, of this project is a single page, with organized by topic lists of inspiration for your projects. Each of the topics will, link to a Simon Willison's Datasette (https://datasette.io/ https://github.com/simonw/datasette) of locations of your versions of the project, for completeness, and eventually, show a random example of the last attempt of some of the projects. 
 
 ## Getting started
 
 The initial list.
+
+It's ok to start with something really easy. I recommend it over something even slightly hard, because 100s aren't about how hard the individual task are, but about building a habit of creating regularly to explore a theme or motive. We all learn through repetition, and no matter what you start with, the result will be interesting in aggregate. One hundred attempts at anything is interesting.
+
+
 
 ### Art
 

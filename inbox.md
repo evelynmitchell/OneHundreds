@@ -1,6 +1,6 @@
 # Inbox
 
-- 100 Functions as a Service https://github.com/openfaas/faas https://github.com/openfaas/faas/tree/master/sample-functions 
+- 100 Functions as a Service https://github.com/openfaas/faas https://github.com/openfaas/faas/tree/master/sample-functions https://workers.cloudflare.com/ https://developers.cloudflare.com/workers/examples
 - 100 containers for software stacks
 - 100 hours of video conversations
 - 100 hours of business coaching
