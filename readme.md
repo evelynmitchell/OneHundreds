@@ -14,6 +14,11 @@ The initial list.
 
 It's ok to start with something really easy. I recommend it over something even slightly hard, because 100s aren't about how hard the individual task are, but about building a habit of creating regularly to explore a theme or motive. We all learn through repetition, and no matter what you start with, the result will be interesting in aggregate. One hundred attempts at anything is interesting.
 
+One hundred attempts is, in statistical terms, a big sample. That is, you'll know something real, about how the world of that sort of activity is for you, once you're done.
+
+If you talk to one hundred prospective employers, you will know more about how you fit into your reachable job market than the vast majority of employed people. If you think of interviews as just another one in a series, rather than risking your self-worth, you will learn more, they will go better and you will get far more opportunities.
+
+
 ### Art
 
 - 100 sweater designs
