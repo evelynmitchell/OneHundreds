@@ -32,7 +32,24 @@ If you talk to one hundred prospective employers, you will know more about how y
 - 100 photographs of the dawn or sunset
 - 100 self portraits
 
+### writing
 
+ - 100 tweets
+ - 100 blog posts
+ - 100 letters to a friend
+ - 100 letters to a family member
+ - 100 job applications
+ - 100 expressions of gratitude
+ - 100 conversations with a part of yourself
+ - 100 documentation contributions to open source projects
+ - 100 tutorials about something you just learned
+ - 100 book reviews
+ - 100 articles about a topic you're interested in
+ - 100 write to learn
+ - 100 sentences; revised to express exactly what you mean
+ - 100 recommendations for a project you want others to know about
+ - 100 questions about the world or yourself
+  
 ### Music
 
 ### Programming
