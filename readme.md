@@ -6,6 +6,8 @@ I've got a few ideas for some projects that I'd like to share and I hope you wil
 
 Also, if you start any of these projects, we'd love to hear about it.
 
+An app to track your progress is [Do 100 Things](https://do100things.com/login)
+
 The structure of so far, of this project is a single page, with organized by topic lists of inspiration for your projects. Each of the topics will, link to a Simon Willison's Datasette (https://datasette.io/ https://github.com/simonw/datasette) of locations of your versions of the project, for completeness, and eventually, show a random example of the last attempt of some of the projects. 
 
 ## Getting started
@@ -49,7 +51,8 @@ If you talk to one hundred prospective employers, you will know more about how y
  - 100 sentences; revised to express exactly what you mean
  - 100 recommendations for a project you want others to know about
  - 100 questions about the world or yourself
-  
+ - 100 Write a detailed product description of...
+ - 
 ### Music
 
 ### Programming
